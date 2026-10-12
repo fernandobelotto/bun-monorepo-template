@@ -18,3 +18,7 @@ Every feature, bug fix, and architecture decision is tracked on GitHub so the re
    - Tell the user briefly what changed and how to test it, with links to the issue and PR.
    - Start the app on this machine using the repository's own run command (dev server, `make run`, build and launch the Mac app, iOS simulator, Expo, etc.) so it is ready to try, and say where to find it (URL, app window, simulator). If the project has nothing to run, say how to verify the change instead.
 <!-- END:github-workflow -->
+
+## Pull requests
+
+- After opening a PR in a personal repository under github.com/fernandobelotto, turn on the app's CI auto-fix and auto-merge for it (bind the PR to the session if needed).
